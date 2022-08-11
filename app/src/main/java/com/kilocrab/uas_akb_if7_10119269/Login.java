@@ -1,5 +1,7 @@
 package com.kilocrab.uas_akb_if7_10119269;
 
+//10119269, Zuhair Rasyid Wafi, IF7
+
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
