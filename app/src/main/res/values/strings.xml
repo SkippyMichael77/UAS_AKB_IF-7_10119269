@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UAS AKB IF-7 10119269</string>
+    <string name="buat_viewpager">buat_viewpager</string>
+    <string name="tips_app">tips_app</string>
+    <string name="judul_catatan">Judul Catatan</string>
+    <string name="tanggal_buat">Tanggal Buat</string>
+    <string name="isi_catatan">Isi Catatan</string>
+    <string name="simpan">Simpan</string>
+    <string name="batal">Batal</string>
+    <string name="_10119269_if7">10119269 - IF7</string>
+    <string name="zuhair_10119269_mahasiswa_unikom_ac_id">zuhair.10119269@mahasiswa.unikom.ac.id</string>
+</resources>
